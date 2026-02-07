@@ -9,7 +9,7 @@ function App() {
      <Header/>
      <br />
      <Input/>
-     <Movie/>
+     <Movie img={}/>
     </>
   )
 }
