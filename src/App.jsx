@@ -18,6 +18,8 @@ function App() {
      <Header/>
      <br />
      <Input/>
+     <div className="card-container">
+
      <Movie 
      img={card1}
      name={"MineCraft"}
@@ -53,6 +55,7 @@ function App() {
      name={"Alladdin"}
      year={"(2023)"}
      />
+     </div>
     </>
   )
 }
