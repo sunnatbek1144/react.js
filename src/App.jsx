@@ -27,7 +27,12 @@ function App() {
      img={card2}
      name={"Avatar"}
      year={"(2013)"}
-     />     
+     />
+     <Movie 
+     img={card3}
+     name={"Romeo"}
+     year={"(2020)"}
+     />
      <Movie 
      img={card4}
      name={"Joker"}
@@ -38,6 +43,11 @@ function App() {
      name={"Avangards"}
      year={"(2017)"}
      />     
+    <Movie 
+     img={card7}
+     name={"Transformers"}
+     year={"(2015)"}
+     />
      <Movie 
      img={card8}
      name={"Alladdin"}
